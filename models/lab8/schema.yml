@@ -1,0 +1,8 @@
+sources:
+ - name: public
+   database: citus
+   schema: public
+
+   tables:
+   - name: movies
+   - name: user_activity
